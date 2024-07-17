@@ -1960,7 +1960,7 @@
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
-                    "name": "Disturbance",
+                    "name": "Disturbance cause",
                     "nodegroup_id": "28b3556c-f0e0-11ee-b0a7-493e03c8740a",
                     "nodeid": "c982ab9c-f0e4-11ee-b0a7-493e03c8740a",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
